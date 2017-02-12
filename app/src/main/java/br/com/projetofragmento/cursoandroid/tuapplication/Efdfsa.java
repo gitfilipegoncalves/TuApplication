@@ -5,4 +5,6 @@ package br.com.projetofragmento.cursoandroid.tuapplication;
  */
 
 public class Efdfsa {
+
+    private String name;
 }
